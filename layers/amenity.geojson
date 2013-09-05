@@ -1,0 +1,4976 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-09-05T05:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "335392128",
+        "amenity": "place_of_worship",
+        "name": "مسجد ميسلون",
+        "name:en": "Mayssalun Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1642448,
+          36.2123052
+        ]
+      },
+      "id": "node/335392128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "338917163",
+        "amenity": "place_of_worship",
+        "name": "جامع الخسروية",
+        "name:en": "Khusruwiyah Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1606256,
+          36.1968424
+        ]
+      },
+      "id": "node/338917163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540040870",
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "كنيسة الروم الكثليك",
+        "name:ar": "كنيسة الروم الكثليك",
+        "name:ar1": "كنيسة الروم الكثليك",
+        "name:en": "Roman Catholic church",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1543876,
+          36.2098977
+        ]
+      },
+      "id": "node/540040870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540043084",
+        "amenity": "school",
+        "name": "مدرسة المعري",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1594945,
+          36.2120999
+        ]
+      },
+      "id": "node/540043084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540043194",
+        "amenity": "place_of_worship",
+        "name": "دير الرام للاتين",
+        "name:en": "Roman Catholic Convent of Al-Ram",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1601468,
+          36.2145171
+        ]
+      },
+      "id": "node/540043194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540043269",
+        "alt_name": "نيسة بيت إيل للأرمن البروتستانت",
+        "amenity": "place_of_worship",
+        "name": "نيسة بيت إيل للأرمن البروتستانت",
+        "name:ar": "نيسة بيت إيل للأرمن البروتستانت",
+        "name:en": "Armenian Protestant Church of Beth-iyl",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.162387,
+          36.2161371
+        ]
+      },
+      "id": "node/540043269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540112298",
+        "amenity": "place_of_worship",
+        "name": "كنيسة القديس ديمتريوس",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1612541,
+          36.2142401
+        ]
+      },
+      "id": "node/540112298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540440518",
+        "alt_name": "الرحمان",
+        "amenity": "place_of_worship",
+        "name": "الرحمان",
+        "name:ar": "الرحمان",
+        "name:ar1": "الرحمان",
+        "name:en": "Al Rahman Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1382667,
+          36.2162549
+        ]
+      },
+      "id": "node/540440518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540440767",
+        "amenity": "hospital",
+        "name": "مستشفى الكلمة",
+        "name:en": "Al kalima Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1354257,
+          36.2166012
+        ]
+      },
+      "id": "node/540440767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540441283",
+        "amenity": "school",
+        "name": "مدرسة الفتح",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1354772,
+          36.2145791
+        ]
+      },
+      "id": "node/540441283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540441733",
+        "amenity": "school",
+        "name": "مدرسة عبد المنعم رياض",
+        "name:ar": "مدرسة الشهيد عبد المنعم رياض الاعدادية",
+        "name:ar1": "مدرسة الشهيد عبد المنعم رياض الاعدادية",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1399662,
+          36.2153824
+        ]
+      },
+      "id": "node/540441733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540441851",
+        "amenity": "hospital",
+        "name": "مشفى حلب الجامعي",
+        "name:en": "Aleppo University Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.128113,
+          36.2108465
+        ]
+      },
+      "id": "node/540441851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540442032",
+        "amenity": "school",
+        "name": "مدرسة خالد أزرق",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1289884,
+          36.2064696
+        ]
+      },
+      "id": "node/540442032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540579520",
+        "alt_name": "الأطروش",
+        "amenity": "place_of_worship",
+        "name": "الأطروش",
+        "name:ar": "الأطروش",
+        "name:ar1": "الأطروش",
+        "name:en": "Al Atroush Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1633887,
+          36.1963709
+        ]
+      },
+      "id": "node/540579520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540580718",
+        "alt_name": "أبو بكر الوفائي",
+        "amenity": "place_of_worship",
+        "name": "أبو بكر الوفائي",
+        "name:ar": "أبو بكر الوفائي",
+        "name:ar1": "أبو بكر الوفائي",
+        "name:en": "Abou Bakr al Wafai",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1681866,
+          36.2143362
+        ]
+      },
+      "id": "node/540580718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540581451",
+        "alt_name": "المحمندر",
+        "amenity": "place_of_worship",
+        "name": "المحمندر",
+        "name:ar": "المحمندر",
+        "name:ar1": "المحمندر",
+        "name:en": "Al Mahmandar Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1600241,
+          36.2025007
+        ]
+      },
+      "id": "node/540581451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540582382",
+        "amenity": "place_of_worship",
+        "denomination": "maronite",
+        "name": "كاتدرائية القدّيِس الياس‎",
+        "name:en": "Saint Elias Cathedral",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1558784,
+          36.2071063
+        ]
+      },
+      "id": "node/540582382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540582430",
+        "alt_name": "كنيسة الروم الأرتدكس",
+        "amenity": "place_of_worship",
+        "name": "كنيسة الروم الأرتدكس",
+        "name:ar": "كنيسة الروم الأرتدكس",
+        "name:ar1": "كنيسة الروم الأرتدكس",
+        "name:en": "Ar Roum Al Orthodox Church",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1557324,
+          36.2059901
+        ]
+      },
+      "id": "node/540582430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "567064162",
+        "alt_name": "الشيخ خضر",
+        "amenity": "place_of_worship",
+        "int_name": "Cheikh Khoder, Cheikh Khodr, Cheïkh Khodr, Ash Shaykh Khiḑr",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ خضر",
+        "name:ar": "الشيخ خضر",
+        "name:ar1": "الشيخ خضر",
+        "name:de": "Ash Shaykh Khidr",
+        "name:en": "Ash Shaykh Khidr",
+        "name:fr": "Ash Shaykh Khidr",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1833333,
+          36.2166667
+        ]
+      },
+      "id": "node/567064162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "571209405",
+        "alt_name": "الشيخ عبد الله",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Aadallah, Cheikh Abdallah, Cheïkh Aadallah, Cheïkh Abdallah, Ash Shaykh `Abd Allāh",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ عبد الله",
+        "name:ar": "الشيخ عبد الله",
+        "name:ar1": "الشيخ عبد الله",
+        "name:de": "Ash Shaykh `Abd Allah",
+        "name:en": "Ash Shaykh `Abd Allah",
+        "name:fr": "Ash Shaykh `Abd Allah",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0833333,
+          36.2833333
+        ]
+      },
+      "id": "node/571209405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "571209479",
+        "alt_name": "الشيخ علي",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Aali, Cheikh Ali, Cheïkh Aali, Cheïkh Ali, Ash Shaykh `Alī",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ علي",
+        "name:ar": "الشيخ علي",
+        "name:ar1": "الشيخ علي",
+        "name:de": "Ash Shaykh `Ali",
+        "name:en": "Ash Shaykh `Ali",
+        "name:fr": "Ash Shaykh `Ali",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0833333,
+          36.2833333
+        ]
+      },
+      "id": "node/571209479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "571209494",
+        "alt_name": "النبي راميا",
+        "amenity": "place_of_worship",
+        "int_name": "Nebi Ramia, Ziaret Nabi Ramiia, Ziaret Nabi Ramya, Ziâret Nabi Ramiia, An Nabī Rāmyā",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "النبي راميا",
+        "name:ar": "النبي راميا",
+        "name:ar1": "النبي راميا",
+        "name:de": "An Nabi Ramya",
+        "name:en": "An Nabi Ramya",
+        "name:fr": "An Nabi Ramya",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0166667,
+          36.2833333
+        ]
+      },
+      "id": "node/571209494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "571209672",
+        "alt_name": "الشيخ محمد خلس",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Mohammed Khelassi, Cheïkh Mohammed Khelassi, Ash Shaykh Muḩammad Khelassi",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ محمد خلس",
+        "name:ar": "الشيخ محمد خلس",
+        "name:ar1": "الشيخ محمد خلس",
+        "name:de": "Ash Shaykh Muhammad Khelassi",
+        "name:en": "Ash Shaykh Muhammad Khelassi",
+        "name:fr": "Ash Shaykh Muhammad Khelassi",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0416701,
+          36.069029
+        ]
+      },
+      "id": "node/571209672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "571209754",
+        "alt_name": "الشيخ عبد القادر",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Aabd el Qader, Cheikh Abd el Kader, Cheïkh Aabd el Qader, Cheïkh Abd el Kader, Ash Shaykh `Abd al Qādir",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ عبد القادر",
+        "name:ar": "الشيخ عبد القادر",
+        "name:ar1": "الشيخ عبد القادر",
+        "name:de": "Ash Shaykh `Abd al Qadir",
+        "name:en": "Ash Shaykh `Abd al Qadir",
+        "name:fr": "Ash Shaykh `Abd al Qadir",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1,
+          36.2833333
+        ]
+      },
+      "id": "node/571209754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "571209883",
+        "alt_name": "الشيخ قموز",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Qamouz, Cheïkh Qamouz, Ash Shaykh Qamouz",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ قموز",
+        "name:ar": "الشيخ قموز",
+        "name:ar1": "الشيخ قموز",
+        "name:de": "Ash Shaykh Qamouz",
+        "name:en": "Ash Shaykh Qamouz",
+        "name:fr": "Ash Shaykh Qamouz",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0166667,
+          36.15
+        ]
+      },
+      "id": "node/571209883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "572538904",
+        "alt_name": "الشيخ الدر",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh ed Darr, Cheïkh ed Darr, Ash Shaykh ad Darr",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ الدر",
+        "name:ar": "الشيخ الدر",
+        "name:ar1": "الشيخ الدر",
+        "name:de": "Ash Shaykh ad Darr",
+        "name:en": "Ash Shaykh ad Darr",
+        "name:fr": "Ash Shaykh ad Darr",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4,
+          36.0666667
+        ]
+      },
+      "id": "node/572538904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "572539562",
+        "alt_name": "شيخ الشةيد",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh ech Chehid, Cheïkh ech Chehîd, Shaykh ash Shahīd",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "شيخ الشةيد",
+        "name:ar": "شيخ الشةيد",
+        "name:ar1": "شيخ الشةيد",
+        "name:de": "Shaykh ash Shahid",
+        "name:en": "Shaykh ash Shahid",
+        "name:fr": "Shaykh ash Shahid",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1666667,
+          36.05
+        ]
+      },
+      "id": "node/572539562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "572540310",
+        "alt_name": "الشيخ محمد",
+        "amenity": "place_of_worship",
+        "int_name": "Cheikh Mohammed, Ash Shaykh Muḩammad",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ محمد",
+        "name:ar": "الشيخ محمد",
+        "name:ar1": "الشيخ محمد",
+        "name:de": "Ash Shaykh Muhammad",
+        "name:en": "Ash Shaykh Muhammad",
+        "name:fr": "Ash Shaykh Muhammad",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3,
+          36.0833333
+        ]
+      },
+      "id": "node/572540310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "572540986",
+        "alt_name": "الشيخ عيسى",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Aisse, Cheikh Isse, Cheïkh Aissé, Cheïkh Issé, Ash Shaykh `Īsá",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ عيسى",
+        "name:ar": "الشيخ عيسى",
+        "name:ar1": "الشيخ عيسى",
+        "name:de": "Ash Shaykh `Isa",
+        "name:en": "Ash Shaykh `Isa",
+        "name:fr": "Ash Shaykh `Isa",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1333333,
+          36.0833333
+        ]
+      },
+      "id": "node/572540986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "572541225",
+        "alt_name": "شيخ نش",
+        "amenity": "grave_yard",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "شيخ نش",
+        "name:alt": "Shaykh Nashsh",
+        "name:ar": "شيخ نش",
+        "name:ar1": "شيخ نش",
+        "name:de": "Shaykh Nashsh",
+        "name:en": "Shaykh Nashsh",
+        "name:fr": "Shaykh Nashsh",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.25,
+          36.05
+        ]
+      },
+      "id": "node/572541225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "573538859",
+        "alt_name": "الشيخ مدرك",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Medrek, Cheïkh Medrek, Ash Shaykh Medrek",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ مدرك",
+        "name:ar": "الشيخ مدرك",
+        "name:ar1": "الشيخ مدرك",
+        "name:de": "Ash Shaykh Medrek",
+        "name:en": "Ash Shaykh Medrek",
+        "name:fr": "Ash Shaykh Medrek",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.15,
+          36.15
+        ]
+      },
+      "id": "node/573538859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "573540023",
+        "alt_name": "الشيخ علي قطباني",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Aali Qotbani, Cheikh Aall Qobtani, Cheïkh Aali Qotbâni, Cheïkh Aall Qobtâni, Ash Shaykh `Alī Quţbānī",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ علي قطباني",
+        "name:ar": "الشيخ علي قطباني",
+        "name:ar1": "الشيخ علي قطباني",
+        "name:de": "Ash Shaykh `Ali Qutbani",
+        "name:en": "Ash Shaykh `Ali Qutbani",
+        "name:fr": "Ash Shaykh `Ali Qutbani",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1166667,
+          36.2666667
+        ]
+      },
+      "id": "node/573540023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "573540216",
+        "alt_name": "الشيخ سعيد",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Said, Cheïkh Saïd, Ash Shaykh Sa`īd",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ سعيد",
+        "name:ar": "الشيخ سعيد",
+        "name:ar1": "الشيخ سعيد",
+        "name:de": "Ash Shaykh Sa`id",
+        "name:en": "Ash Shaykh Sa`id",
+        "name:fr": "Ash Shaykh Sa`id",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.25,
+          36.1333333
+        ]
+      },
+      "id": "node/573540216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "573542983",
+        "alt_name": "الشيخ محمد",
+        "amenity": "place_of_worship",
+        "int_name": "Cheikh Mohammed, Ash Shaykh Muḩammad",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ محمد",
+        "name:ar": "الشيخ محمد",
+        "name:ar1": "الشيخ محمد",
+        "name:de": "Ash Shaykh Muhammad",
+        "name:en": "Ash Shaykh Muhammad",
+        "name:fr": "Ash Shaykh Muhammad",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35,
+          36.1666667
+        ]
+      },
+      "id": "node/573542983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "573543797",
+        "alt_name": "الشيخ يحيى",
+        "amenity": "grave_yard",
+        "int_name": "Cheikh Yahia, Cheïkh Yahia, Ash Shaykh Yaḩyá",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "الشيخ يحيى",
+        "name:ar": "الشيخ يحيى",
+        "name:ar1": "الشيخ يحيى",
+        "name:de": "Ash Shaykh Yahya",
+        "name:en": "Ash Shaykh Yahya",
+        "name:fr": "Ash Shaykh Yahya",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2333333,
+          36.1666667
+        ]
+      },
+      "id": "node/573543797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "587631011",
+        "amenity": "place_of_worship",
+        "name": "مسجد الفلاح",
+        "name:en": "Al-Falah Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1735002,
+          36.2270632
+        ]
+      },
+      "id": "node/587631011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "587860369",
+        "amenity": "place_of_worship",
+        "name": "مسجد الشيخ فارس",
+        "name:en": "Al-Sheikh Faris Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.177436,
+          36.2268579
+        ]
+      },
+      "id": "node/587860369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "587872840",
+        "amenity": "school",
+        "name": "مدرسة ابن سيناء",
+        "name:en": "Ibn Sina school",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1777471,
+          36.2309255
+        ]
+      },
+      "id": "node/587872840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "587990686",
+        "amenity": "fire_station",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1800946,
+          36.2139997
+        ]
+      },
+      "id": "node/587990686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "588026316",
+        "amenity": "fire_station",
+        "name": "فوج إطفاء السليمانية",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1596261,
+          36.2136756
+        ]
+      },
+      "id": "node/588026316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "588026344",
+        "amenity": "place_of_worship",
+        "name": "مسجد التوحيد",
+        "name:en": "Al-Tawhid Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1534142,
+          36.2143422
+        ]
+      },
+      "id": "node/588026344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "588419154",
+        "amenity": "place_of_worship",
+        "name": "مسجد الفتح",
+        "name:en": "Al-Fath Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1804489,
+          36.2292273
+        ]
+      },
+      "id": "node/588419154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "588419155",
+        "amenity": "school",
+        "name": "مدرسة أبو بكرالرازي",
+        "name:en": "Abu Baker Alrazi School",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1777845,
+          36.2313279
+        ]
+      },
+      "id": "node/588419155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "588473106",
+        "amenity": "place_of_worship",
+        "name": "مسجد النقشبندي",
+        "name:en": "Naqshbandi Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1755565,
+          36.2261549
+        ]
+      },
+      "id": "node/588473106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "588801537",
+        "amenity": "place_of_worship",
+        "name": "مسجد سعد بن معاذ رضي الله عنه",
+        "name:en": "Saad bin Maaz Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1686227,
+          36.2289982
+        ]
+      },
+      "id": "node/588801537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "770035452",
+        "amenity": "fuel",
+        "name": "Taiba",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1044499,
+          36.1900307
+        ]
+      },
+      "id": "node/770035452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "912933326",
+        "amenity": "school",
+        "name": "al-basel",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1030039,
+          36.2051586
+        ]
+      },
+      "id": "node/912933326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "912933328",
+        "amenity": "school",
+        "name": "ASAAD AKEEL",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0999927,
+          36.2044557
+        ]
+      },
+      "id": "node/912933328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "915177057",
+        "amenity": "restaurant",
+        "name": "Al-Qaysar",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1040538,
+          36.2051022
+        ]
+      },
+      "id": "node/915177057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1162033608",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "جامع زين العابدين",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0899223,
+          36.1988273
+        ]
+      },
+      "id": "node/1162033608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1162047291",
+        "amenity": "place_of_worship",
+        "name": "مسجد عبد الله بن العباس",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.111461,
+          36.200745
+        ]
+      },
+      "id": "node/1162047291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1162051116",
+        "amenity": "place_of_worship",
+        "name": "جامع أمنة",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258269,
+          36.1954031
+        ]
+      },
+      "id": "node/1162051116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1307041191",
+        "amenity": "place_of_worship",
+        "name": "مسجد الايمان",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0958004,
+          36.2070815
+        ]
+      },
+      "id": "node/1307041191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1307041193",
+        "amenity": "fountain",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0890096,
+          36.2015058
+        ]
+      },
+      "id": "node/1307041193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422383154",
+        "amenity": "hospital",
+        "name": "مشفى الفرقان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1144535,
+          36.199689
+        ]
+      },
+      "id": "node/1422383154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422383159",
+        "amenity": "restaurant",
+        "name": "شهبا روز",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1266629,
+          36.2087964
+        ]
+      },
+      "id": "node/1422383159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422391406",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "بنك الاسلامي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1151782,
+          36.204632
+        ]
+      },
+      "id": "node/1422391406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422391407",
+        "amenity": "place_of_worship",
+        "name": "جامع زكي باشا",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1411305,
+          36.2045807
+        ]
+      },
+      "id": "node/1422391407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422391409",
+        "amenity": "school",
+        "name": "معهد تقنيات الحاسوب",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0983554,
+          36.2097227
+        ]
+      },
+      "id": "node/1422391409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422414807",
+        "amenity": "school",
+        "name": "مدرسة حسين تركماني",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1166475,
+          36.1995505
+        ]
+      },
+      "id": "node/1422414807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422414815",
+        "amenity": "marketplace",
+        "name": "ديجتال نت",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1207025,
+          36.2022088
+        ]
+      },
+      "id": "node/1422414815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422414827",
+        "amenity": "school",
+        "name": "معهد حلب العلمي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1242006,
+          36.2013339
+        ]
+      },
+      "id": "node/1422414827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1426156002",
+        "amenity": "restaurant",
+        "name": "سرجية",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.114468,
+          36.2076383
+        ]
+      },
+      "id": "node/1426156002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1469243501",
+        "amenity": "fuel",
+        "shop": "yes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3572436,
+          36.1854363
+        ]
+      },
+      "id": "node/1469243501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1832043837",
+        "amenity": "place_of_worship",
+        "historic": "monument",
+        "name": "جامع الكبير",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1623527,
+          36.1998148
+        ]
+      },
+      "id": "node/1832043837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1832043902",
+        "amenity": "place_of_worship",
+        "historic": "monument",
+        "name": "جامع الصغير",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1622615,
+          36.199317
+        ]
+      },
+      "id": "node/1832043902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1832085234",
+        "amenity": "bus_station",
+        "name": "Pullman",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1437801,
+          36.2018865
+        ]
+      },
+      "id": "node/1832085234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839653097",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1233816,
+          36.1933003
+        ]
+      },
+      "id": "node/1839653097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839653127",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1324475,
+          36.2045209
+        ]
+      },
+      "id": "node/1839653127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839653154",
+        "amenity": "swimming_pool",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1323125,
+          36.2026347
+        ]
+      },
+      "id": "node/1839653154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839745489",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0949176,
+          36.1730892
+        ]
+      },
+      "id": "node/1839745489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839745562",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0983937,
+          36.1718243
+        ]
+      },
+      "id": "node/1839745562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839825591",
+        "amenity": "parking",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1559228,
+          36.1938389
+        ]
+      },
+      "id": "node/1839825591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839825602",
+        "amenity": "place_of_worship",
+        "name": "جامع الشيخ طه",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1525702,
+          36.2169643
+        ]
+      },
+      "id": "node/1839825602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839825625",
+        "amenity": "place_of_worship",
+        "name": "Saint Michael the Archangel Greek Catholic Church",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1508268,
+          36.2091821
+        ]
+      },
+      "id": "node/1839825625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839825679",
+        "alt_name": "مدرسة وكنيسة الشيباني",
+        "amenity": "place_of_worship",
+        "name": "كنيسة الشيباني",
+        "name:en": "Al-Shibani Church",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1564272,
+          36.1972002
+        ]
+      },
+      "id": "node/1839825679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839825700",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1578112,
+          36.212333
+        ]
+      },
+      "id": "node/1839825700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839847706",
+        "amenity": "place_of_worship",
+        "name": "مسجد ال فستق",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1585323,
+          36.1996854
+        ]
+      },
+      "id": "node/1839847706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839879933",
+        "amenity": "place_of_worship",
+        "name": "كنيسة ودير مار آسيا",
+        "name:en": "Saint Asia",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1562685,
+          36.2062151
+        ]
+      },
+      "id": "node/1839879933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839880025",
+        "amenity": "police",
+        "name": "قسم شرطة الحراسات",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1535519,
+          36.2058275
+        ]
+      },
+      "id": "node/1839880025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839880109",
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "كنيسة الروم الكاثوليك",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1553784,
+          36.2069423
+        ]
+      },
+      "id": "node/1839880109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839880213",
+        "amenity": "place_of_worship",
+        "name": "كاتدرائية الأربعين شهيدا للأرمن",
+        "name:en": "Forty Martyrs Armenian Cathedral",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1554589,
+          36.2059749
+        ]
+      },
+      "id": "node/1839880213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839951343",
+        "amenity": "place_of_worship",
+        "name": "جامع السفاحية‎",
+        "name:ar": "جامع السفاحية‎",
+        "name:en": "Al-Saffahiyah Mosque",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1583793,
+          36.1966984
+        ]
+      },
+      "id": "node/1839951343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1839995232",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1240416,
+          36.22359
+        ]
+      },
+      "id": "node/1839995232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1840955360",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1534219,
+          36.2337766
+        ]
+      },
+      "id": "node/1840955360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1840955366",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1631481,
+          36.2313575
+        ]
+      },
+      "id": "node/1840955366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1841355136",
+        "amenity": "place_of_worship",
+        "denomination": "مسلم",
+        "name": "جامع آل محمد",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.12976,
+          36.1710101
+        ]
+      },
+      "id": "node/1841355136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1841411433",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0979712,
+          36.2016721
+        ]
+      },
+      "id": "node/1841411433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1842474183",
+        "amenity": "swimming_pool",
+        "sport": "swimming",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1683733,
+          36.2247176
+        ]
+      },
+      "id": "node/1842474183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1998478802",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1494761,
+          36.162448
+        ]
+      },
+      "id": "node/1998478802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2134170385",
+        "amenity": "place_of_worship",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1604093,
+          36.1934448
+        ]
+      },
+      "id": "node/2134170385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2134178121",
+        "amenity": "place_of_worship",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1748047,
+          36.2032282
+        ]
+      },
+      "id": "node/2134178121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2134178128",
+        "amenity": "place_of_worship",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1668814,
+          36.2019513
+        ]
+      },
+      "id": "node/2134178128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2135137122",
+        "amenity": "place_of_worship",
+        "name": "جامع العبارة",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1513041,
+          36.2074444
+        ]
+      },
+      "id": "node/2135137122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2135186875",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1920942,
+          36.1943106
+        ]
+      },
+      "id": "node/2135186875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2135212451",
+        "amenity": "place_of_worship",
+        "name": "جامع الإحسان",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1813922,
+          36.2040117
+        ]
+      },
+      "id": "node/2135212451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2135230556",
+        "amenity": "place_of_worship",
+        "name": "جامع فجر الإسلام",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1985369,
+          36.2107598
+        ]
+      },
+      "id": "node/2135230556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2136114525",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1808182,
+          36.1874113
+        ]
+      },
+      "id": "node/2136114525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2137891443",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2029055,
+          36.2211633
+        ]
+      },
+      "id": "node/2137891443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2137914423",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2122044,
+          36.2136263
+        ]
+      },
+      "id": "node/2137914423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2138602944",
+        "amenity": "place_of_worship",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0940209,
+          36.2700206
+        ]
+      },
+      "id": "node/2138602944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2141091902",
+        "amenity": "hospital",
+        "name": "Al Basil Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1276972,
+          36.2123167
+        ]
+      },
+      "id": "node/2141091902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2149895527",
+        "amenity": "place_of_worship",
+        "name": "جامع سليمان الأيوبي",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1710758,
+          36.199828
+        ]
+      },
+      "id": "node/2149895527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156740966",
+        "amenity": "bank",
+        "name": "بنك سورية و المهجر",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1495953,
+          36.2103128
+        ]
+      },
+      "id": "node/2156740966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156741096",
+        "amenity": "restaurant",
+        "name": "Caballero Mexican Restaurant",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1501318,
+          36.2101873
+        ]
+      },
+      "id": "node/2156741096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156741105",
+        "amenity": "restaurant",
+        "name": "مطعم الكوخ",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1497965,
+          36.2095402
+        ]
+      },
+      "id": "node/2156741105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156741460",
+        "amenity": "library",
+        "name": "المكتبة الروحية",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1509311,
+          36.2095164
+        ]
+      },
+      "id": "node/2156741460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156746797",
+        "amenity": "police",
+        "name": "Azizieh Police Station",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1523473,
+          36.2091918
+        ]
+      },
+      "id": "node/2156746797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156746798",
+        "amenity": "school",
+        "name": "مدرسة الأخطل",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1525189,
+          36.209564
+        ]
+      },
+      "id": "node/2156746798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156746800",
+        "amenity": "hospital",
+        "name": "Italian Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.151961,
+          36.2101484
+        ]
+      },
+      "id": "node/2156746800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156746803",
+        "amenity": "school",
+        "name": "معهد المحبة الخاص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1504107,
+          36.2085945
+        ]
+      },
+      "id": "node/2156746803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156746805",
+        "amenity": "school",
+        "name": "مدرسة القدس",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1524063,
+          36.2100921
+        ]
+      },
+      "id": "node/2156746805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156751938",
+        "amenity": "fire_station",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1774742,
+          36.2149137
+        ]
+      },
+      "id": "node/2156751938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156751956",
+        "amenity": "school",
+        "name": "مدرسة العدالة للبنات",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1687195,
+          36.2150695
+        ]
+      },
+      "id": "node/2156751956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156751957",
+        "amenity": "police",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1780107,
+          36.2027596
+        ]
+      },
+      "id": "node/2156751957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156751958",
+        "amenity": "school",
+        "name": "مدرسة الشرعية للبنات",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1690843,
+          36.2130526
+        ]
+      },
+      "id": "node/2156751958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156751968",
+        "amenity": "school",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1735689,
+          36.2153292
+        ]
+      },
+      "id": "node/2156751968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122404",
+        "amenity": "school",
+        "name": "Ahmad Zinoe School",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1987553,
+          36.229155
+        ]
+      },
+      "id": "node/2158122404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122405",
+        "amenity": "kindergarten",
+        "name": "روضة هنانو",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1951719,
+          36.2301589
+        ]
+      },
+      "id": "node/2158122405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122406",
+        "amenity": "school",
+        "name": "مدرسة الشهيد خالد عثمان",
+        "name:en": "",
+        "operator": "مجلس الادارة المدنية لحي مساكن هنانو",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1993562,
+          36.2290684
+        ]
+      },
+      "id": "node/2158122406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122407",
+        "amenity": "school",
+        "name": "مدرسة الشهيد عمر خواتمي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2059007,
+          36.2340706
+        ]
+      },
+      "id": "node/2158122407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122408",
+        "amenity": "school",
+        "name": "مدرسة سيف الدولة الحمداني",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1968241,
+          36.227199
+        ]
+      },
+      "id": "node/2158122408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122409",
+        "amenity": "school",
+        "name": "مدرسة هنانو المحدثة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1972748,
+          36.2275798
+        ]
+      },
+      "id": "node/2158122409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122410",
+        "amenity": "school",
+        "name": "مدرسة عز الدين القسام",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1988197,
+          36.2324263
+        ]
+      },
+      "id": "node/2158122410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122411",
+        "amenity": "post_office",
+        "name": "بريد وهاتف مدينة هنانو",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2025104,
+          36.2320109
+        ]
+      },
+      "id": "node/2158122411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158122412",
+        "amenity": "school",
+        "name": "مدرسة الشهيد محمد قصار",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1983262,
+          36.2320282
+        ]
+      },
+      "id": "node/2158122412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158131008",
+        "amenity": "place_of_worship",
+        "name": "جامع المستغفرين",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1920605,
+          36.2199633
+        ]
+      },
+      "id": "node/2158131008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158131015",
+        "amenity": "school",
+        "name": "Al Sakhur School",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1924897,
+          36.2152892
+        ]
+      },
+      "id": "node/2158131015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158131020",
+        "amenity": "school",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1926614,
+          36.2208635
+        ]
+      },
+      "id": "node/2158131020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158131022",
+        "amenity": "hospital",
+        "name": "Sakhur Medical Centre",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1925112,
+          36.2163106
+        ]
+      },
+      "id": "node/2158131022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158131034",
+        "amenity": "school",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1904083,
+          36.2137484
+        ]
+      },
+      "id": "node/2158131034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158133548",
+        "amenity": "school",
+        "name": "ثانوية الحسن ابن الهيثم",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1691964,
+          36.2140448
+        ]
+      },
+      "id": "node/2158133548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158133551",
+        "amenity": "school",
+        "name": "مدرسة محمد الشعار",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1657632,
+          36.210184
+        ]
+      },
+      "id": "node/2158133551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158133563",
+        "amenity": "school",
+        "name": "Secondary School for girls",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1669756,
+          36.2129628
+        ]
+      },
+      "id": "node/2158133563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2207769051",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0265838,
+          36.2154453
+        ]
+      },
+      "id": "node/2207769051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2207769155",
+        "amenity": "place_of_worship",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.010571,
+          36.2292894
+        ]
+      },
+      "id": "node/2207769155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2245733202",
+        "amenity": "parking",
+        "parking": "surface",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0940214,
+          36.196167
+        ]
+      },
+      "id": "node/2245733202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2260850568",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9919055,
+          36.1668533
+        ]
+      },
+      "id": "node/2260850568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2410006721",
+        "amenity": "school",
+        "name": "مدرسة الفتح",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1352668,
+          36.2150601
+        ]
+      },
+      "id": "node/2410006721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2428714084",
+        "amenity": "fire_station",
+        "name": "محطة الشرق للوقود",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1794016,
+          36.2081356
+        ]
+      },
+      "id": "node/2428714084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2429054917",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "جامع البلاط",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1726016,
+          36.1985461
+        ]
+      },
+      "id": "node/2429054917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2429459031",
+        "amenity": "pharmacy",
+        "name": "صيدلية الحكمة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1801972,
+          36.2085553
+        ]
+      },
+      "id": "node/2429459031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2429706663",
+        "amenity": "hospital",
+        "name": "مشفى الحكيم",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1841678,
+          36.2080541
+        ]
+      },
+      "id": "node/2429706663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430028379",
+        "amenity": "school",
+        "name": "مدرسة الإيمان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1547788,
+          36.2075849
+        ]
+      },
+      "id": "node/2430028379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430028380",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "مطرانية_الأرمن_الكاثوليك",
+        "name": "مطرانية الأرمن الكاثوليك",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1550363,
+          36.2077602
+        ]
+      },
+      "id": "node/2430028380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430054998",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "دير وكنيسة القلبيت الأقدسين",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1560402,
+          36.2083814
+        ]
+      },
+      "id": "node/2430054998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430066088",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "كنسية السيدة - المارونية",
+        "religion": "christian",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1616445,
+          36.210749
+        ]
+      },
+      "id": "node/2430066088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430563773",
+        "amenity": "restaurant",
+        "name": "مطعم الوردي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1538749,
+          36.2117918
+        ]
+      },
+      "id": "node/2430563773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430626152",
+        "amenity": "fuel",
+        "name": "محطة الشياح",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1389715,
+          36.200581
+        ]
+      },
+      "id": "node/2430626152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430626504",
+        "amenity": "fuel",
+        "name": "محطة أبناء عبد الله باشا",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1383106,
+          36.1998971
+        ]
+      },
+      "id": "node/2430626504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2430631471",
+        "amenity": "bus_station",
+        "name": "كراج هنانو",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1493876,
+          36.2005252
+        ]
+      },
+      "id": "node/2430631471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2431600770",
+        "amenity": "parking",
+        "name": "كراج جسر الحج",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1483857,
+          36.1834546
+        ]
+      },
+      "id": "node/2431600770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2431610058",
+        "amenity": "police",
+        "name": "مخفر الزبدية سابقاً",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1324385,
+          36.187948
+        ]
+      },
+      "id": "node/2431610058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2431627499",
+        "amenity": "police",
+        "name": "قسم شرطة جبل معان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1289409,
+          36.2015611
+        ]
+      },
+      "id": "node/2431627499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2431640391",
+        "amenity": "restaurant",
+        "name": "مطعم أبو كامل",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1824038,
+          36.1977912
+        ]
+      },
+      "id": "node/2431640391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2431640673",
+        "amenity": "fast_food",
+        "name": "مشاوي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1821249,
+          36.1979037
+        ]
+      },
+      "id": "node/2431640673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2431640700",
+        "amenity": "fast_food",
+        "name": "فروج الشرق",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2024453,
+          36.2098617
+        ]
+      },
+      "id": "node/2431640700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2431640701",
+        "amenity": "fast_food",
+        "name": "فروج بركات",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2020617,
+          36.2097708
+        ]
+      },
+      "id": "node/2431640701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434313379",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1829474,
+          36.1988893
+        ]
+      },
+      "id": "node/2434313379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434315915",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1766398,
+          36.1998275
+        ]
+      },
+      "id": "node/2434315915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434316257",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1832853,
+          36.1983049
+        ]
+      },
+      "id": "node/2434316257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434318072",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1776793,
+          36.1991881
+        ]
+      },
+      "id": "node/2434318072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434318413",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1777142,
+          36.1992963
+        ]
+      },
+      "id": "node/2434318413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434318772",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1774486,
+          36.1990669
+        ]
+      },
+      "id": "node/2434318772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434319530",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1772126,
+          36.1990755
+        ]
+      },
+      "id": "node/2434319530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434319655",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1775747,
+          36.1996232
+        ]
+      },
+      "id": "node/2434319655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434319732",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1773548,
+          36.1996859
+        ]
+      },
+      "id": "node/2434319732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434320937",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.178509,
+          36.2059549
+        ]
+      },
+      "id": "node/2434320937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434321110",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1783964,
+          36.2059765
+        ]
+      },
+      "id": "node/2434321110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434321669",
+        "amenity": "hospital",
+        "name": "عيادة داخلية اطفال",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1749285,
+          36.2014941
+        ]
+      },
+      "id": "node/2434321669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434322200",
+        "amenity": "hospital",
+        "name": "عيادة اسنان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1746496,
+          36.2016932
+        ]
+      },
+      "id": "node/2434322200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434327260",
+        "amenity": "hospital",
+        "name": "قابلة قانونية",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1743438,
+          36.2017971
+        ]
+      },
+      "id": "node/2434327260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434331330",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1730778,
+          36.2021997
+        ]
+      },
+      "id": "node/2434331330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434331407",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.173169,
+          36.2023036
+        ]
+      },
+      "id": "node/2434331407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434332061",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1674398,
+          36.2041779
+        ]
+      },
+      "id": "node/2434332061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434334334",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1686307,
+          36.2039268
+        ]
+      },
+      "id": "node/2434334334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434334421",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1667854,
+          36.2038403
+        ]
+      },
+      "id": "node/2434334421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434334891",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1618286,
+          36.2041389
+        ]
+      },
+      "id": "node/2434334891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434338568",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1581379,
+          36.2047147
+        ]
+      },
+      "id": "node/2434338568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434344358",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1680245,
+          36.2017019
+        ]
+      },
+      "id": "node/2434344358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434352647",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1670536,
+          36.1971479
+        ]
+      },
+      "id": "node/2434352647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434353332",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1655086,
+          36.1968881
+        ]
+      },
+      "id": "node/2434353332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434353653",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1628801,
+          36.1966414
+        ]
+      },
+      "id": "node/2434353653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434353766",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.161716,
+          36.1966197
+        ]
+      },
+      "id": "node/2434353766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434361140",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1660558,
+          36.2071257
+        ]
+      },
+      "id": "node/2434361140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434361644",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1658949,
+          36.2080433
+        ]
+      },
+      "id": "node/2434361644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434362429",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1654764,
+          36.2104152
+        ]
+      },
+      "id": "node/2434362429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434362476",
+        "amenity": "bus_station",
+        "name": "موقف باص",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.165455,
+          36.2100214
+        ]
+      },
+      "id": "node/2434362476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434616248",
+        "amenity": "fast_food",
+        "name": "فروج بركات",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1379353,
+          36.1828664
+        ]
+      },
+      "id": "node/2434616248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434625142",
+        "amenity": "fast_food",
+        "name": "فروج العبد",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1814139,
+          36.198047
+        ]
+      },
+      "id": "node/2434625142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434625277",
+        "amenity": "fast_food",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1811564,
+          36.1981422
+        ]
+      },
+      "id": "node/2434625277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434626506",
+        "amenity": "pharmacy",
+        "name": "صيدلية بركات",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1818215,
+          36.1976899
+        ]
+      },
+      "id": "node/2434626506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434626747",
+        "amenity": "pharmacy",
+        "name": "صيدلية النائب",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1833129,
+          36.1973825
+        ]
+      },
+      "id": "node/2434626747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434628098",
+        "amenity": "pharmacy",
+        "name": "صيدلية المارعي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1776185,
+          36.1967072
+        ]
+      },
+      "id": "node/2434628098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434628307",
+        "amenity": "fast_food",
+        "name": "فروج أبو العبد",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.185987,
+          36.1961444
+        ]
+      },
+      "id": "node/2434628307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434629373",
+        "amenity": "place_of_worship",
+        "name": "جامع النصر",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1308086,
+          36.1852603
+        ]
+      },
+      "id": "node/2434629373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434631828",
+        "amenity": "fast_food",
+        "name": "فروج الشرق",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1264742,
+          36.1829417
+        ]
+      },
+      "id": "node/2434631828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434631834",
+        "amenity": "fast_food",
+        "name": "فروج على كيفك",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1265278,
+          36.1828054
+        ]
+      },
+      "id": "node/2434631834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434633224",
+        "amenity": "parking",
+        "name": "كراج باصات صلاح الدين",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1281961,
+          36.1819913
+        ]
+      },
+      "id": "node/2434633224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434633314",
+        "amenity": "fast_food",
+        "name": "مطعم أبو قاسم",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1269972,
+          36.1811275
+        ]
+      },
+      "id": "node/2434633314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434636387",
+        "amenity": "pharmacy",
+        "name": "صيدلية الحسن",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258492,
+          36.1795319
+        ]
+      },
+      "id": "node/2434636387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434636781",
+        "amenity": "pharmacy",
+        "name": "صيدلية الدملخي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1261094,
+          36.1788456
+        ]
+      },
+      "id": "node/2434636781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434636905",
+        "amenity": "pharmacy",
+        "name": "صيدلية الرائد",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1243499,
+          36.1772716
+        ]
+      },
+      "id": "node/2434636905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434636972",
+        "amenity": "pharmacy",
+        "name": "صيدلية القباني",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1248407,
+          36.1762389
+        ]
+      },
+      "id": "node/2434636972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434637361",
+        "amenity": "pharmacy",
+        "name": "صيدلية أرض الناصر",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.124948,
+          36.174968
+        ]
+      },
+      "id": "node/2434637361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434637783",
+        "amenity": "fast_food",
+        "name": "مجمع الديك",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1244518,
+          36.1746237
+        ]
+      },
+      "id": "node/2434637783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434637801",
+        "amenity": "fast_food",
+        "name": "مجمع سوبر ستار",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1234915,
+          36.1764186
+        ]
+      },
+      "id": "node/2434637801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434637802",
+        "amenity": "fast_food",
+        "name": "فروج النور",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.123572,
+          36.1762627
+        ]
+      },
+      "id": "node/2434637802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434637906",
+        "amenity": "pharmacy",
+        "name": "الدهان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1233145,
+          36.1767585
+        ]
+      },
+      "id": "node/2434637906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434638247",
+        "amenity": "fast_food",
+        "name": "فروج بركات",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1232931,
+          36.1768105
+        ]
+      },
+      "id": "node/2434638247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434640965",
+        "amenity": "pharmacy",
+        "name": "عاتكة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1239207,
+          36.1783087
+        ]
+      },
+      "id": "node/2434640965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434641062",
+        "amenity": "pharmacy",
+        "name": "ارض الصباغ",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1236659,
+          36.1793696
+        ]
+      },
+      "id": "node/2434641062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434641091",
+        "amenity": "pharmacy",
+        "name": "هاني",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1232823,
+          36.1801836
+        ]
+      },
+      "id": "node/2434641091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434641575",
+        "amenity": "fast_food",
+        "name": "الأخوة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.123564,
+          36.1802615
+        ]
+      },
+      "id": "node/2434641575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434641664",
+        "amenity": "fast_food",
+        "name": "فلافل زوز",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1238939,
+          36.1802724
+        ]
+      },
+      "id": "node/2434641664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434641763",
+        "amenity": "fast_food",
+        "name": "فروج الكوثر",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1239073,
+          36.1803741
+        ]
+      },
+      "id": "node/2434641763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434645500",
+        "amenity": "restaurant",
+        "name": "مطعم الزهراء",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1232662,
+          36.1822749
+        ]
+      },
+      "id": "node/2434645500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434652590",
+        "amenity": "fast_food",
+        "name": "فروج الصالحين",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1598977,
+          36.1850848
+        ]
+      },
+      "id": "node/2434652590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434679820",
+        "amenity": "pharmacy",
+        "name": "رندة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1249704,
+          36.1828992
+        ]
+      },
+      "id": "node/2434679820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434681671",
+        "amenity": "fast_food",
+        "name": "فلافل العربي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1229024,
+          36.1827714
+        ]
+      },
+      "id": "node/2434681671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434688178",
+        "amenity": "fast_food",
+        "name": "الفيحاء",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1220092,
+          36.1830182
+        ]
+      },
+      "id": "node/2434688178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434692666",
+        "amenity": "pharmacy",
+        "name": "السواس",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1224062,
+          36.1799224
+        ]
+      },
+      "id": "node/2434692666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434702419",
+        "amenity": "pharmacy",
+        "name": "بصم جي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1203275,
+          36.177058
+        ]
+      },
+      "id": "node/2434702419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434707503",
+        "amenity": "pharmacy",
+        "name": "صيدلية جمان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1220763,
+          36.1787446
+        ]
+      },
+      "id": "node/2434707503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434719293",
+        "amenity": "fast_food",
+        "name": "فلافل الباشا",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1267433,
+          36.1816911
+        ]
+      },
+      "id": "node/2434719293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434722700",
+        "amenity": "fast_food",
+        "name": "فروج الضياء",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1260111,
+          36.1802471
+        ]
+      },
+      "id": "node/2434722700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435870699",
+        "amenity": "restaurant",
+        "name": "مهروسة ",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.114613,
+          36.2058377
+        ]
+      },
+      "id": "node/2435870699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435896104",
+        "amenity": "hospital",
+        "name": "مسفى الزرزور",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1394324,
+          36.1816058
+        ]
+      },
+      "id": "node/2435896104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435946199",
+        "amenity": "restaurant",
+        "name": "فراريج",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.123073,
+          36.2247128
+        ]
+      },
+      "id": "node/2435946199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435950451",
+        "amenity": "restaurant",
+        "name": "الدوحة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1233575,
+          36.2252255
+        ]
+      },
+      "id": "node/2435950451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435950592",
+        "amenity": "restaurant",
+        "name": "سلورة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1202084,
+          36.2253207
+        ]
+      },
+      "id": "node/2435950592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435951308",
+        "amenity": "restaurant",
+        "name": "تكساس",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1197472,
+          36.2259071
+        ]
+      },
+      "id": "node/2435951308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435951869",
+        "amenity": "restaurant",
+        "name": "البيت السعيد",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1197419,
+          36.2267942
+        ]
+      },
+      "id": "node/2435951869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435961185",
+        "amenity": "restaurant",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1260821,
+          36.2247175
+        ]
+      },
+      "id": "node/2435961185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435961904",
+        "amenity": "restaurant",
+        "name": "تستي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.129551,
+          36.2175486
+        ]
+      },
+      "id": "node/2435961904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435968734",
+        "amenity": "hospital",
+        "name": "مشفى الرسالة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1394186,
+          36.2124086
+        ]
+      },
+      "id": "node/2435968734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440108871",
+        "amenity": "pharmacy",
+        "name": "صيدلية الوحمن",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1377958,
+          36.2165227
+        ]
+      },
+      "id": "node/2440108871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440129079",
+        "amenity": "pharmacy",
+        "name": "صيدلية البيطار",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1287111,
+          36.2237025
+        ]
+      },
+      "id": "node/2440129079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440134442",
+        "amenity": "fast_food",
+        "name": "الحريري للوجبات السريعة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.128746,
+          36.2243992
+        ]
+      },
+      "id": "node/2440134442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440140066",
+        "amenity": "school",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1278072,
+          36.2236614
+        ]
+      },
+      "id": "node/2440140066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440140821",
+        "amenity": "fast_food",
+        "name": "سيرجية هت",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1236552,
+          36.2234168
+        ]
+      },
+      "id": "node/2440140821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440149257",
+        "amenity": "place_of_worship",
+        "name": "جامع الرضوان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1189881,
+          36.2153498
+        ]
+      },
+      "id": "node/2440149257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440153592",
+        "amenity": "place_of_worship",
+        "name": "جامع الغزالي",
+        "religion": "muslim",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1161718,
+          36.2180981
+        ]
+      },
+      "id": "node/2440153592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440165242",
+        "amenity": "school",
+        "name": "المدرسة الوطنية بحلب الخاصة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1128727,
+          36.2175052
+        ]
+      },
+      "id": "node/2440165242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440199648",
+        "amenity": "cafe",
+        "name": "ع البال كافيه",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1261711,
+          36.2160163
+        ]
+      },
+      "id": "node/2440199648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440203941",
+        "amenity": "cafe",
+        "name": "MSAYA CAFE",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1257795,
+          36.2169901
+        ]
+      },
+      "id": "node/2440203941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440203942",
+        "amenity": "cafe",
+        "name": "SOOMA CAFE",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.125817,
+          36.2169122
+        ]
+      },
+      "id": "node/2440203942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440204614",
+        "amenity": "restaurant",
+        "name": "باتيسري سومر",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258224,
+          36.2168387
+        ]
+      },
+      "id": "node/2440204614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440206233",
+        "amenity": "pharmacy",
+        "name": "صيدلية دينا",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1260531,
+          36.2136532
+        ]
+      },
+      "id": "node/2440206233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440206842",
+        "amenity": "marketplace",
+        "name": "باتيسري كبريئل",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1260692,
+          36.2137181
+        ]
+      },
+      "id": "node/2440206842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440208479",
+        "amenity": "cafe",
+        "name": "SOLO CAFE",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258761,
+          36.2135537
+        ]
+      },
+      "id": "node/2440208479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440210807",
+        "amenity": "cafe",
+        "name": "لافاندر كافيه",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258868,
+          36.2130343
+        ]
+      },
+      "id": "node/2440210807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440241030",
+        "amenity": "cafe",
+        "name": "PREGO CAFE",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1256722,
+          36.2196994
+        ]
+      },
+      "id": "node/2440241030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440245849",
+        "amenity": "fast_food",
+        "name": "بباي للوجبات السريعة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1257795,
+          36.2196474
+        ]
+      },
+      "id": "node/2440245849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440246523",
+        "amenity": "fast_food",
+        "name": "تورك اواي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258385,
+          36.2196431
+        ]
+      },
+      "id": "node/2440246523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440268058",
+        "amenity": "pharmacy",
+        "name": "صيدلية حمامة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1281828,
+          36.2192147
+        ]
+      },
+      "id": "node/2440268058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440269617",
+        "amenity": "cafe",
+        "name": "بن العلبي",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1287407,
+          36.2188381
+        ]
+      },
+      "id": "node/2440269617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440282902",
+        "amenity": "cinema",
+        "name": "مصور وائل",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1240092,
+          36.2230533
+        ]
+      },
+      "id": "node/2440282902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440286493",
+        "amenity": "restaurant",
+        "name": "بيتزا ون",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1241112,
+          36.218704
+        ]
+      },
+      "id": "node/2440286493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440298148",
+        "amenity": "hospital",
+        "name": "مشفى الحكمة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1209247,
+          36.219998
+        ]
+      },
+      "id": "node/2440298148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440301392",
+        "amenity": "cafe",
+        "name": "S2 CAFE",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1292503,
+          36.2174575
+        ]
+      },
+      "id": "node/2440301392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440302658",
+        "amenity": "fast_food",
+        "name": "TSTY FOOD",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1293737,
+          36.2175052
+        ]
+      },
+      "id": "node/2440302658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440306206",
+        "amenity": "cafe",
+        "name": "IN CASA CAFE",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1290089,
+          36.2175052
+        ]
+      },
+      "id": "node/2440306206"
+    }
+  ]
+}

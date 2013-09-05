@@ -1,0 +1,244 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-09-02T20:24:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540440767",
+        "amenity": "hospital",
+        "name": "مستشفى الكلمة",
+        "name:en": "Al kalima Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1354257,
+          36.2166012
+        ]
+      },
+      "id": "node/540440767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "540441851",
+        "amenity": "hospital",
+        "name": "مشفى حلب الجامعي",
+        "name:en": "Aleppo University Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.128113,
+          36.2108465
+        ]
+      },
+      "id": "node/540441851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422383154",
+        "amenity": "hospital",
+        "name": "مشفى الفرقان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1144535,
+          36.199689
+        ]
+      },
+      "id": "node/1422383154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2141091902",
+        "amenity": "hospital",
+        "name": "Al Basil Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1276972,
+          36.2123167
+        ]
+      },
+      "id": "node/2141091902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156746800",
+        "amenity": "hospital",
+        "name": "Italian Hospital",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.151961,
+          36.2101484
+        ]
+      },
+      "id": "node/2156746800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2158131022",
+        "amenity": "hospital",
+        "name": "Sakhur Medical Centre",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1925112,
+          36.2163106
+        ]
+      },
+      "id": "node/2158131022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2429706663",
+        "amenity": "hospital",
+        "name": "مشفى الحكيم",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1841678,
+          36.2080541
+        ]
+      },
+      "id": "node/2429706663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434321669",
+        "amenity": "hospital",
+        "name": "عيادة داخلية اطفال",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1749285,
+          36.2014941
+        ]
+      },
+      "id": "node/2434321669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434322200",
+        "amenity": "hospital",
+        "name": "عيادة اسنان",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1746496,
+          36.2016932
+        ]
+      },
+      "id": "node/2434322200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434327260",
+        "amenity": "hospital",
+        "name": "قابلة قانونية",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1743438,
+          36.2017971
+        ]
+      },
+      "id": "node/2434327260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435896104",
+        "amenity": "hospital",
+        "name": "مسفى الزرزور",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1394324,
+          36.1816058
+        ]
+      },
+      "id": "node/2435896104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2435968734",
+        "amenity": "hospital",
+        "name": "مشفى الرسالة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1394186,
+          36.2124086
+        ]
+      },
+      "id": "node/2435968734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440298148",
+        "amenity": "hospital",
+        "name": "مشفى الحكمة",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1209247,
+          36.219998
+        ]
+      },
+      "id": "node/2440298148"
+    }
+  ]
+}

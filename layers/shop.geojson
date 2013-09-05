@@ -1,0 +1,1397 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-09-05T03:40:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "573541473",
+        "alt_name": "رسلان",
+        "int_name": "Dahret Raslane, Dahret Raslâne, Ḑahrat Raslān",
+        "is_in": "Syria, الجمهورية العربية السورية ، سوريا",
+        "name": "رسلان",
+        "name:ar": "ضهرة رسلان",
+        "name:ar1": "ضهرة رسلان",
+        "name:de": "Dahrat Raslan",
+        "name:en": "Dahrat Raslan",
+        "name:fr": "Dahrat Raslan",
+        "natural": "peak",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1166667,
+          36.2
+        ]
+      },
+      "id": "node/573541473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "912933327",
+        "name": "Ammo Hameed",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.103668,
+          36.2048037
+        ]
+      },
+      "id": "node/912933327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1233379052",
+        "name": "Al Beik Bicycles",
+        "shop": "bicycle",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1583332,
+          36.2109499
+        ]
+      },
+      "id": "node/1233379052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422383156",
+        "name": "master market",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.138191,
+          36.2046541
+        ]
+      },
+      "id": "node/1422383156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422406635",
+        "name": "الصقال",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1143837,
+          36.2030308
+        ]
+      },
+      "id": "node/1422406635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422414802",
+        "name": "مجمع المالكي",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1260573,
+          36.1966154
+        ]
+      },
+      "id": "node/1422414802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1422414811",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1269258,
+          36.1964942
+        ]
+      },
+      "id": "node/1422414811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "1782818955",
+        "shop": "bicycle",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1518156,
+          36.2042325
+        ]
+      },
+      "id": "node/1782818955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2156746799",
+        "name": "فرن العزيزية",
+        "shop": "bakery",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1529803,
+          36.2073565
+        ]
+      },
+      "id": "node/2156746799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2429073790",
+        "name": "سوبر ماركت البدوي",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1817105,
+          36.1998512
+        ]
+      },
+      "id": "node/2429073790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434616026",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1377636,
+          36.1811647
+        ]
+      },
+      "id": "node/2434616026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434624883",
+        "name": "صالون أبو محمود",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1812207,
+          36.1958197
+        ]
+      },
+      "id": "node/2434624883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434625578",
+        "name": "صالون ",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1821836,
+          36.1976401
+        ]
+      },
+      "id": "node/2434625578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434626247",
+        "name": "فرن أبو حسين",
+        "shop": "bakery",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1827094,
+          36.1952439
+        ]
+      },
+      "id": "node/2434626247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434626925",
+        "shop": "florist",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1816075,
+          36.1979581
+        ]
+      },
+      "id": "node/2434626925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434626930",
+        "shop": "car_repair",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1809015,
+          36.1982418
+        ]
+      },
+      "id": "node/2434626930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434628294",
+        "name": "محل ابو عبود",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1806441,
+          36.1960102
+        ]
+      },
+      "id": "node/2434628294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434631826",
+        "name": "مول الحطبي",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1263991,
+          36.1824395
+        ]
+      },
+      "id": "node/2434631826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434631827",
+        "name": "حلاق الحطبي",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1264125,
+          36.1823312
+        ]
+      },
+      "id": "node/2434631827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434632378",
+        "name": "مول المدينة المنورة",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.126155,
+          36.1838813
+        ]
+      },
+      "id": "node/2434632378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434632649",
+        "name": "مكتبة القنيطرة",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1277294,
+          36.1827426
+        ]
+      },
+      "id": "node/2434632649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434633261",
+        "name": "مكتبة الأسعد",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1272145,
+          36.181606
+        ]
+      },
+      "id": "node/2434633261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434637360",
+        "shop": "car_repair",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1253154,
+          36.17586
+        ]
+      },
+      "id": "node/2434637360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434639626",
+        "name": "صالون الرشيد",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1238912,
+          36.1776029
+        ]
+      },
+      "id": "node/2434639626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434639655",
+        "name": "مخزن ابو نايف",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1236873,
+          36.1775964
+        ]
+      },
+      "id": "node/2434639655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434640294",
+        "name": "الحمصي",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1242318,
+          36.1780944
+        ]
+      },
+      "id": "node/2434640294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434640605",
+        "name": "ابو رحمو",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1241004,
+          36.1779601
+        ]
+      },
+      "id": "node/2434640605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434642065",
+        "name": "المحترف",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1238644,
+          36.1804802
+        ]
+      },
+      "id": "node/2434642065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434643665",
+        "name": "عبودة",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1230785,
+          36.1822728
+        ]
+      },
+      "id": "node/2434643665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434644196",
+        "name": "مخزن شحادة",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1230302,
+          36.1824092
+        ]
+      },
+      "id": "node/2434644196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434644958",
+        "name": "مستلزمات الطالب",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1232479,
+          36.1824328
+        ]
+      },
+      "id": "node/2434644958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434650789",
+        "name": "مخزن النور",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1818408,
+          36.1977525
+        ]
+      },
+      "id": "node/2434650789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434693308",
+        "name": "شادي مول",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1220682,
+          36.1791235
+        ]
+      },
+      "id": "node/2434693308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434694948",
+        "name": "مكتبت النور",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1208988,
+          36.1761855
+        ]
+      },
+      "id": "node/2434694948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434694970",
+        "name": "مكتبت السعد",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1204965,
+          36.1760729
+        ]
+      },
+      "id": "node/2434694970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434695464",
+        "name": "مكتبت ريم",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1203275,
+          36.1765622
+        ]
+      },
+      "id": "node/2434695464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434705383",
+        "name": "الفاروق",
+        "shop": "doityourself",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1190937,
+          36.1780496
+        ]
+      },
+      "id": "node/2434705383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434716504",
+        "name": "ابو عبدو",
+        "shop": "motorcycle",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1200485,
+          36.1832239
+        ]
+      },
+      "id": "node/2434716504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434716877",
+        "name": "ابوخالد",
+        "shop": "motorcycle",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1211751,
+          36.1822367
+        ]
+      },
+      "id": "node/2434716877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434717467",
+        "name": "اسامة",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1212287,
+          36.1820029
+        ]
+      },
+      "id": "node/2434717467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434718128",
+        "name": "طيبة",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1211,
+          36.1816175
+        ]
+      },
+      "id": "node/2434718128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2434721603",
+        "name": "الصباغ",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1264268,
+          36.177307
+        ]
+      },
+      "id": "node/2434721603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440126289",
+        "name": "صالون النيل للرجال",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1293495,
+          36.2241179
+        ]
+      },
+      "id": "node/2440126289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440132915",
+        "name": "ميني ماركت بشار",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1287648,
+          36.2244511
+        ]
+      },
+      "id": "node/2440132915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440197958",
+        "name": "ICE CUBE",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1264715,
+          36.2155273
+        ]
+      },
+      "id": "node/2440197958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440198502",
+        "name": "مجوهرات زمردة",
+        "shop": "jewelry",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1274907,
+          36.2149516
+        ]
+      },
+      "id": "node/2440198502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440200785",
+        "name": "SHARP",
+        "shop": "kiosk",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1260263,
+          36.2160423
+        ]
+      },
+      "id": "node/2440200785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440203649",
+        "name": "المأمون",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258439,
+          36.2165833
+        ]
+      },
+      "id": "node/2440203649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440204957",
+        "name": "دار النظارات",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.125817,
+          36.2167737
+        ]
+      },
+      "id": "node/2440204957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440207496",
+        "name": "ريبون للهدايا",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1260263,
+          36.2135061
+        ]
+      },
+      "id": "node/2440207496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440210945",
+        "name": "CAFE NET FACEBOOK",
+        "shop": "hifi",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1262247,
+          36.2129304
+        ]
+      },
+      "id": "node/2440210945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440213415",
+        "name": "صالون بانوراما",
+        "shop": "hairdresser",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1267344,
+          36.214627
+        ]
+      },
+      "id": "node/2440213415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440225279",
+        "name": "بقالية الروضة",
+        "shop": "convenience",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1287353,
+          36.2196907
+        ]
+      },
+      "id": "node/2440225279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440225863",
+        "name": "بوديوم",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1284402,
+          36.2197513
+        ]
+      },
+      "id": "node/2440225863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440228879",
+        "name": "شوكولا باتشي",
+        "shop": "confectionery",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1264876,
+          36.2208549
+        ]
+      },
+      "id": "node/2440228879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440229820",
+        "name": "اليمان",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1258117,
+          36.2208116
+        ]
+      },
+      "id": "node/2440229820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440230471",
+        "name": "مصوغات التادفي",
+        "shop": "jewelry",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1257634,
+          36.2208419
+        ]
+      },
+      "id": "node/2440230471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440230897",
+        "name": "مكتبة 2000",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.126096,
+          36.2203788
+        ]
+      },
+      "id": "node/2440230897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440247023",
+        "name": "حلويات سحسول",
+        "shop": "confectionery",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1262623,
+          36.2196864
+        ]
+      },
+      "id": "node/2440247023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440247101",
+        "name": "NASA",
+        "shop": "kiosk",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1263106,
+          36.219483
+        ]
+      },
+      "id": "node/2440247101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440251582",
+        "name": "قمة البصريات",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1263267,
+          36.219695
+        ]
+      },
+      "id": "node/2440251582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440262666",
+        "name": "فاضل سباغي للبصريات",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1274639,
+          36.2195046
+        ]
+      },
+      "id": "node/2440262666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440268140",
+        "name": "دار الربيع للنشر",
+        "shop": "books",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1282257,
+          36.2191411
+        ]
+      },
+      "id": "node/2440268140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440268629",
+        "name": "دول دول",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1289874,
+          36.2192969
+        ]
+      },
+      "id": "node/2440268629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440268876",
+        "name": "JACK JONES",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1288587,
+          36.2192233
+        ]
+      },
+      "id": "node/2440268876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440268999",
+        "name": "NEW BOY",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1279414,
+          36.2197989
+        ]
+      },
+      "id": "node/2440268999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440270223",
+        "name": "adidas",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1284295,
+          36.2187559
+        ]
+      },
+      "id": "node/2440270223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440272094",
+        "name": "فينيس",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1283598,
+          36.2188381
+        ]
+      },
+      "id": "node/2440272094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440273335",
+        "name": "MAGILLA",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1288372,
+          36.2184876
+        ]
+      },
+      "id": "node/2440273335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440292639",
+        "name": "طبارة ماركت",
+        "shop": "supermarket",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1242184,
+          36.2194743
+        ]
+      },
+      "id": "node/2440292639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440292900",
+        "name": "منافيخي للعطور",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1243204,
+          36.2194613
+        ]
+      },
+      "id": "node/2440292900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440293909",
+        "name": "ساعات روفينا",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1245618,
+          36.2194224
+        ]
+      },
+      "id": "node/2440293909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440300916",
+        "name": "مجوهرات سيدرا",
+        "shop": "jewelry",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1290035,
+          36.217899
+        ]
+      },
+      "id": "node/2440300916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440303303",
+        "name": "LAZZORA",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1295078,
+          36.2175917
+        ]
+      },
+      "id": "node/2440303303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440306398",
+        "name": "LARA",
+        "shop": "clothes",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1298082,
+          36.2167391
+        ]
+      },
+      "id": "node/2440306398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440307548",
+        "name": "Space Toon",
+        "shop": "toys",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.129556,
+          36.2165141
+        ]
+      },
+      "id": "node/2440307548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": "2440308468",
+        "name": "نظارات عبد الصمد",
+        "shop": "gift",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1296526,
+          36.2165487
+        ]
+      },
+      "id": "node/2440308468"
+    }
+  ]
+}

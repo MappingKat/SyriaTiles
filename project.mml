@@ -1,0 +1,420 @@
+{
+  "bounds": [
+    36.8519,
+    35.9133,
+    37.4561,
+    36.3691
+  ],
+  "center": [
+    37.1518,
+    36.209,
+    13
+  ],
+  "format": "png",
+  "interactivity": {
+    "layer": "",
+    "template_teaser": "{{{name}}}\n{{{amenity}}} ",
+    "template_full": "{{{name}}}\n{{{amenity}}} ",
+    "fields": [
+      "name",
+      "amenity"
+    ]
+  },
+  "minzoom": 11,
+  "maxzoom": 16,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "labels.mss",
+    "style.mss",
+    "landuse.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "polygon",
+      "extent": [
+        36.9195777,
+        35.9583482,
+        37.3990168,
+        36.3538619
+      ],
+      "id": "landuse2",
+      "class": "",
+      "Datasource": {
+        "file": "layers\\landuse.geojson",
+        "id": "landuse2",
+        "project": "aleppo_poi",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "landuse2"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        36.977651900000005,
+        36.113289900000005,
+        37.2636851,
+        36.3312469
+      ],
+      "id": "amenity",
+      "class": "",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "amenity"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        35.7212942,
+        32.3773922,
+        42.1531196,
+        37.179572
+      ],
+      "id": "buildings2",
+      "class": "",
+      "Datasource": {
+        "file": "layers\\buildings.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "buildings2"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        37.1609849,
+        36.175767,
+        37.2457266,
+        36.2068623
+      ],
+      "id": "aeroways",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\aeroways.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "aeroways"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        36.9195777,
+        35.9583482,
+        37.3990168,
+        36.3538619
+      ],
+      "id": "landuse",
+      "class": "labels",
+      "Datasource": {
+        "file": "layers\\landuse.geojson",
+        "id": "landuse",
+        "project": "aleppo_poi",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "landuse"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        35.7212942,
+        32.3773922,
+        42.1531196,
+        37.179572
+      ],
+      "id": "buildings",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\buildings.geojson",
+        "id": "buildings",
+        "project": "aleppo_poi",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "buildings"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.1144535,
+        36.1816058,
+        37.1925112,
+        36.219998
+      ],
+      "id": "hospitals",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\hospital.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "hospitals"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        36.9919055,
+        36.05,
+        37.4,
+        36.28333330000001
+      ],
+      "id": "mosques",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson",
+        "id": "Mosques",
+        "project": "aleppo_poi",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "mosques"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "churchs",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "churchs"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "fuel",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "fuel"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "school",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "school"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "parking",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "parking"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "restaurant",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson",
+        "id": "restaurant",
+        "project": "aleppo_poi",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "restaurant"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "police",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "police"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "firestation",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson",
+        "id": "firestation",
+        "project": "aleppo_poi",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "firestation"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "pharmacy",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson",
+        "id": "pharmacy",
+        "project": "aleppo_poi",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "pharmacy"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "bus",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "bus"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "fastfood",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "fastfood"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.103668,
+        36.17586,
+        37.1827094,
+        36.2244511
+      ],
+      "id": "shop",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\shop.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "shop"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        37.0890096,
+        36.1333333,
+        37.25,
+        36.2700206
+      ],
+      "id": "post",
+      "class": "label",
+      "Datasource": {
+        "file": "layers\\amenity.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "post"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Aleppo_poi",
+  "description": "",
+  "attribution": "",
+  "legend": ""
+}
